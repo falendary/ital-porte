@@ -1,2 +1,2 @@
-http://www.ital-porte.ru 20.10.2014
+ital-porte.ru 20.10.2014
 ==========
